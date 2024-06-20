@@ -1,0 +1,143 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+   
+}
+
+.box{
+    height: 80vh;
+    width: max-content;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(2,auto);
+    margin-top: 40px;
+gap: 20px;
+}
+.box2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+    width: 250px;
+    background-color: bisque;
+    padding: 0 20px;
+    border-radius: 20px;
+}
+
+.headline{
+    height: 50px;
+    width: 50%;
+    margin-top: 40px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    /* background-color: aqua; */
+}
+
+/* audio player css */
+
+.audioPlayer{
+    height: 40vh;
+    width: 50%;
+    margin: auto;
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+    margin-top: 60px;
+}
+
+/* Singleword audio */
+.displayflex{
+   
+    height: 40vh;
+    width: 50%;
+    margin: auto;
+    margin-top: 60px;
+    background-color: rgb(128, 0, 255);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+}
+
+/* project4 */
+
+.project4{
+    height: 40vh;
+    width: 40%;
+    margin: auto;
+    margin-top: 50px;
+    background-color: blanchedalmond;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* justify-content: center; */
+    gap: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* #image1{
+    height: 210px;
+    width: 250px;
+    background-color: bisque;
+    padding: 0 20px;
+    border-radius: 20px;
+}
+.radius{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    border-radius: 100%;
+    border: 5px solid rgb(235, 235, 120);
+    position: relative;
+    
+}
+.img{
+    height: 50px;
+    width: 100px;
+    position: absolute;
+    top: 30px;
+    left: 40px;
+    /* z-index: 1; */
+ 
+
